@@ -1,0 +1,69 @@
+*{
+    background-color: black;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    border-bottom: 2px solid white;
+    
+}
+#navimg{
+    width: 20px;
+    height: 20px;
+}
+#navimg2{
+    width: 20px;
+    height: 20px;
+}
+#navimg3{
+    width: 20px;
+    height: 20px;
+}
+#navdiv{
+    padding-left: 20px;
+}
+#main1{
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#main2{
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}
+#divmid{
+    text-align: center;
+    background-color: rgb(41, 41, 41);
+}
+#img1{
+    height: 500px;
+    padding-left: 300px;
+}
+#buy1{
+    text-align: center;
+}
+.div2mc{
+    justify-content: center;
+
+}
+#img3{
+    width: 1500px;
+}
+.headimg3{
+    text-align: center;
+    color: bisque;
+}
+#head4{
+    padding-left: 500px;
+}
+.head4{
+    display: flex;
+    justify-content: space-between;
+}
+#head41{
+    padding-right: 500px;
+}
